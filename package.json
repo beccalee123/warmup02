@@ -1,0 +1,24 @@
+{
+  "name": "warmup02",
+  "version": "1.0.0",
+  "description": "warmup for Code Fellows 401 JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beccalee123/warmup02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beccalee123/warmup02/issues"
+  },
+  "homepage": "https://github.com/beccalee123/warmup02#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
